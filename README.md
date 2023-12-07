@@ -1,7 +1,6 @@
 # Multi-Record Values *
 
 This repository is a library of structures making use of the Multi-Record Values technique for relational databases.
-
 [Multi-Record Values](https://github.com/nuno-faria/mrv)
 
 Create the MRVs*:
